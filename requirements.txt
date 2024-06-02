@@ -1,9 +1,9 @@
 anyio==4.4.0 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:5aadc6a1bbb7cdb0bede386cac5e2940f5e2ff3aa20277e991cf028e0585ce94 \
     --hash=sha256:c1b2d8f46a8a812513012e1107cb0e68c17159a7a594208005a57dc776e1bdc7
-certifi==2024.2.2 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:0569859f95fc761b18b45ef421b1290a0f65f147e92a1e5eb3e635f9a5e4e66f \
-    --hash=sha256:dc383c07b76109f368f6106eee2b593b04a011ea4d55f652c6ca24a754d1cdd1
+certifi==2024.6.2 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:3cd43f1c6fa7dedc5899d69d3ad0398fd018ad1a17fba83ddaf78aa46c747516 \
+    --hash=sha256:ddc6c8ce995e6987e7faf5e3f1b02b302836a0e5d98ece18392cb1a36c72ad56
 charset-normalizer==3.3.2 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:06435b539f889b1f6f4ac1758871aae42dc3a8c0e24ac9e60c2384973ad73027 \
     --hash=sha256:06a81e93cd441c56a9b65d8e1d043daeb97a3d0856d177d5c90ba85acb3db087 \
@@ -529,9 +529,9 @@ tree-sitter==0.20.4 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:f792684cee8a46d9194d9f4223810e54ccc704470c5777538d59fbde0a4c91bf \
     --hash=sha256:fdd361fe1cc68db68b4d85165641275e34b86cc26b2bab932790204fa14824dc \
     --hash=sha256:fe10779347a6c067af29cb37fd4b75fa96c5cb68f587cc9530b70fe3f2a51a55
-typing-extensions==4.12.0 ; python_version >= "3.8" and python_version < "3.11" \
-    --hash=sha256:8cbcdc8606ebcb0d95453ad7dc5065e6237b6aa230a31e81d0f440c30fed5fd8 \
-    --hash=sha256:b349c66bea9016ac22978d800cfff206d5f9816951f12a7d0ec5578b0a819594
+typing-extensions==4.12.1 ; python_version >= "3.8" and python_version < "3.11" \
+    --hash=sha256:6024b58b69089e5a89c347397254e35f1bf02a907728ec7fee9bf0fe837d203a \
+    --hash=sha256:915f5e35ff76f56588223f15fdd5938f9a1cf9195c0de25130c627e4d597f6d1
 urllib3==2.2.1 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:450b20ec296a467077128bff42b73080516e71b56ff59a60a02bef2232c4fa9d \
     --hash=sha256:d0570876c61ab9e520d776c38acbbb5b05a776d3f9ff98a5c8fd5162a444cf19
