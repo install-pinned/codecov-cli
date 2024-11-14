@@ -113,11 +113,11 @@ charset-normalizer==3.4.0 ; python_version >= "3.8" and python_version < "4.0" \
 click==8.1.7 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:ae74fb96c20a0277a1d615f1e4d73c8414f5a98db8b799a7931d1582f3390c28 \
     --hash=sha256:ca9853ad459e787e2192211578cc907e7594e294c7ccc834310722b41b9ca6de
-codecov-cli==0.8.0 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:0d9d5080a1f50c486ab7b95f1114695f68c026828b505585ef1f47b4437a1d57 \
-    --hash=sha256:a3f5bfb2a3673778a96083c4183d6ece92f4fbddcabaf05fcd40d3a7d8f3a047 \
-    --hash=sha256:d1dc15353a91fc1664745c6ea936c16d22abf03d23d21ebd42c4efe838cb8551 \
-    --hash=sha256:f978e62ecc5a00989e0a32656dc267c310f7f760b3bc2dfeaaf6031447c8276e
+codecov-cli==9.0.4 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:0fa9e37be16f7ffabda2908af8823d1dde3bc4f445d9855d17478116cff300f9 \
+    --hash=sha256:47070f2662c66ad0e506d08712322f16878bb8f98c072525fd4a47f7c30b55fc \
+    --hash=sha256:54b662f76cd986468419c586f571496f87f1654be7177c470440da23795b17a8 \
+    --hash=sha256:f8ac3942b13c84142be9f455263c1b3de358821bab92a19596c53e37e85042c3
 colorama==0.4.6 ; python_version >= "3.8" and python_version < "4.0" and platform_system == "Windows" \
     --hash=sha256:08695f5cb7ed6e0531a20572697297273c47b8cae5a63ffc6d6ed5c201be6e44 \
     --hash=sha256:4f1d9991f5acc0ca119f9d443620b77f9d6b33703e51011c16baf57afb285fc6
