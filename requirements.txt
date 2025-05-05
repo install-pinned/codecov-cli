@@ -340,9 +340,9 @@ requests==2.32.3 \
 responses==0.21.0 \
     --hash=sha256:2dcc863ba63963c0c3d9ee3fa9507cbe36b7d7b0fccb4f0bdfd9e96c539b1487 \
     --hash=sha256:b82502eb5f09a0289d8e209e7bad71ef3978334f56d09b444253d5ad67bf5253
-setuptools==80.2.0 ; python_full_version >= '3.12' \
-    --hash=sha256:16a390b41627e1455567193435e7cafa9101803ffaa2fdd9ecd0af098301981d \
-    --hash=sha256:5f982284ad5d644764e1985baca205e235651b55f9a7ea8d46878d37104aa5e5
+setuptools==80.3.1 ; python_full_version >= '3.12' \
+    --hash=sha256:31e2c58dbb67c99c289f51c16d899afedae292b978f8051efaf6262d8212f927 \
+    --hash=sha256:ea8e00d7992054c4c592aeb892f6ad51fe1b4d90cc6947cc45c45717c40ec537
 sniffio==1.3.1 \
     --hash=sha256:2f6da418d1f1e0fddd844478f41680e794e6051915791a034ff65e5f100525a2 \
     --hash=sha256:f4324edc670a0f49750a81b895f35c3adb843cca46f0530f79fc1babb23789dc
