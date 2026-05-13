@@ -20,7 +20,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install codecov-cli from PyPI
-        uses: install-pinned/codecov-cli@00c298a04cf19ee538f8d4f730ead5e2fbb4395f  # 11.2.8
+        uses: install-pinned/codecov-cli@add195a560af195dc11eda611bfbdf27bde18193  # 11.2.8
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
